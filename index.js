@@ -21,7 +21,7 @@ say('DUX -  BOT', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-say(`'${name}' By @GURU._`, {
+say(`'${name}' By @DUX._`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
