@@ -1,15 +1,15 @@
 
 <p align="center">  
-  <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/guru.jpg">
+  <a href="https://youtu.be/duxbot6413">
+    <img alt="Dux" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/guru.jpg">
     <h1 align="center">GURU-BOT</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Guru322"><img title="Author" src="https://img.shields.io/badge/GURU-BOT-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://github.com/Duxlin"><img title="Author" src="https://img.shields.io/badge/GURU-BOT-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Guru322?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Guru322?label=Followers&style=social"></a>
+<a href="https://github.com/Duxlin?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Duxlin?label=Followers&style=social"></a>
 <a href="https://github.com/Guru322/GURU-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Guru322/GURU-BOT?&style=social"></a>
 <a href="https://github.com/Guru322/GURU-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Guru322/GURU-BOT?style=social"></a>
 <a href="https://github.com/Guru322/GURU-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Guru322/GURU-BOT?label=Watching&style=social"></a>
